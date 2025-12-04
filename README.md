@@ -37,3 +37,6 @@ The repository includes **sample land dispute prompts**, e.g.:
 
 ## System Architecture
 <img width="593" height="616" alt="image" src="https://github.com/user-attachments/assets/137775bc-bd02-4a14-bd6b-556e4e4f1932" />
+
+## Sample Output
+<img width="1379" height="451" alt="Screenshot of output" src="https://github.com/user-attachments/assets/4a533054-4159-4555-a74d-825720399b47" />
